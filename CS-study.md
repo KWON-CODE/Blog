@@ -38,3 +38,18 @@
 프레임워크는 그 스스로 제어 흐름의 주도성을 갖는 반면, 라이브러리는 개발자가 가지고 있다.
 프레임워크는 집이고, 라이브러리는 그 집 안의 가구이다.
 라이브러리와 달리 프레임워크는 이미 프로그래밍에 대한 규칙을 가지고 있다. 예를 들면 설정파일의 태그설정이나, DB연동 방법등에 대한 규칙을 가지고 있고 개발자는 이를 따라야한다.
+
+예시:
+웹 프레임워크: Django (Python), Ruby on Rails (Ruby), Spring (Java), Laravel (PHP), React (JavaScript), Angular (JavaScript), Vue.js (JavaScript) 등.
+모바일 프레임워크: Flutter (Dart), React Native (JavaScript), Swift UI (Swift) 등.
+UI 프레임워크: Bootstrap, Foundation 등.
+ORM 프레임워크: MyBatis, Hibernate 등. 
+
+수학 라이브러리: NumPy (Python) 등.
+데이터 분석 라이브러리: Pandas (Python) 등.
+그래픽 라이브러리: OpenGL, DirectX 등.
+문자열 처리 라이브러리: Apache Commons Lang (Java) 등.
+로깅 라이브러리: Log4j (Java) 등.
+네트워크 라이브러리: Socket (Java) 등.
+유틸리티 라이브러리: Lodash (JavaScript) 등. 
+UI 라이브러리: React (JavaScript). 
