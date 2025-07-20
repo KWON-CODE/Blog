@@ -70,3 +70,7 @@ public enum BaseResponseStatus {
 DTO는 가변의 성격을 가진 클래스이며 데이터 전송을 위해 존재한다. 따라서 getter와 setter 기능을 모두 가지고 있다.
 그에 반해, VO는 값 그 자체의 의미를 가진 불변 클래스(Read-Only)를 의미한다. 따라서 getter 기능만 존재한다.
 → DTO는 인스턴스 개념이라면, VO는 리터럴 개념으로 이해하면 편하다
+
+
+-----------------------------------------스프링 aop ---------------------------------------------
+https://engkimbs.tistory.com/entry/%EC%8A%A4%ED%94%84%EB%A7%81AOP
