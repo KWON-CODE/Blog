@@ -3,7 +3,7 @@
 ### https://github.com/KWON-CODE/Blog/blob/main/spring.md
 jsp
 ### https://github.com/KWON-CODE/Blog/blob/main/jsp.md
-SQL
+DATABASE
 ### [https://github.com/KWON-CODE/Blog/blob/main/SQL.md](https://github.com/KWON-CODE/Blog/blob/main/DATABASE.md)
 자바
 ### https://github.com/KWON-CODE/Blog/blob/main/JAVA.md
