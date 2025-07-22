@@ -1,7 +1,7 @@
 # Blog
 
 ## 백엔드
-### https://github.com/KWON-CODE/Blog/blob/main/Backend-Study
+### [https://github.com/KWON-CODE/Blog/blob/main/Backend-Study](https://github.com/KWON-CODE/Blog/blob/main/Backend-Study.md)
 
 ## 스프링
 ### https://github.com/KWON-CODE/Blog/blob/main/spring.md
