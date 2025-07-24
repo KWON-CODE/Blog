@@ -1,3 +1,6 @@
+## 알고리즘
+https://www.youtube.com/watch?v=-GsrYvZoAdA
+
 ## -----함수형 프로그래밍에 대하여
 https://mangkyu.tistory.com/111
 
