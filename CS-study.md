@@ -1,4 +1,4 @@
-## 알고리즘
+## double, float, long, int
 https://www.youtube.com/watch?v=-GsrYvZoAdA
 
 ## -----함수형 프로그래밍에 대하여
