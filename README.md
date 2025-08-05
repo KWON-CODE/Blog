@@ -29,3 +29,6 @@
 
 ## 프론트
 ### [https://github.com/KWON-CODE/Blog/blob/main/front-study](https://github.com/KWON-CODE/Blog/blob/main/front-study.md)
+
+## 느낀점
+디버그 잘하기
